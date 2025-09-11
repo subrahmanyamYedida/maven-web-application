@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">subrahmanyam yedida</h1>
-<h1 align="center">KJDFKLGD LKFGDKL FGKDKLF GDKLFG DLKFGKLD FKDKLFG KDJFGLDRIPTJEIOFKLVMD GREKLGJJDF DGKREGDF KLFDJ </h1>
-<P>THIS I SIISSDKFM O PARAGRAPH OF INFORMATION </P>
+<h1 align="center">this is CSE - B</h1>
+<h1 align="center">JKHSDFKJS JKHSDJF SJHDFJ SJDHFK SHJE OUUFJSN FUISHDKJF SUHDFS  </h1>
+<P>CI CI CONFIGURATION PROCESS </P>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
