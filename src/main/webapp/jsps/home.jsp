@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">this is CSE - B</h1>
-<h1 align="center">JKHSDFKJS JKHSDJF SJHDFJ SJDHFK SHJE OUUFJSN FUISHDKJF SUHDFS  </h1>
-<P>CI CI CONFIGURATION PROCESS </P>
+<h1 align="center">CSE --------------- C-------------- SECTION</h1>
+<h1 align="center">CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC  </h1>
+<P>CI CD CONFIGURATION PROCESS</P>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
